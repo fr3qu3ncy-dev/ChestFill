@@ -1,0 +1,5 @@
+no-permission: '&cYou have no permission!'
+no-block-in-reach: '&cYou are not looking at any block!'
+no-fillable-block: '&cYou cannot fill this block!'
+no-item-in-hand: '&cYou have no item in your hand!'
+fill-successful: '&aBlock has been filled!'
