@@ -3,6 +3,7 @@ main: de.fr3qu3ncy.chestfill.ChestFill
 version: 1.0
 author: fr3qu3ncy
 description: Fill chests and other blocks with one command.
+api-version: 1.17
 commands:
   fill:
     description: Fill the target inventory.
